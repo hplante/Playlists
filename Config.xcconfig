@@ -1,0 +1,15 @@
+//
+//  Config.xcconfig
+//  Youtube
+//
+//  Created by Hugo Plante on 2020-09-04.
+//  Copyright © 2020 HPS. All rights reserved.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+CONFIG_GOOGLE_CLIENT_ID = [YOUR_GOOGLE_CLIENT_ID]
+CONFIG_GOOGLE_REVERSE_CLIENT_ID = [YOUR_GOOGLE_REVERSE_CLIENT_ID]
+CONFIG_GOOGLE_API_KEY = [YOUR_GOOGLE_API_KEY]
+CONFIG_BUNDLE_IDENTIFIER = [YOUR_BUNDLE_IDENTIFIER]
+CONFIG_DEVELOPMENT_TEAM = [YOUR_DEVELOPMENT_TEAM]
